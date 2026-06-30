@@ -15,14 +15,14 @@
 Kotlin
 
 - **Mobile Development:**  
-Android SDK · Jetpack Compose (learning) · XML
+Android SDK · Jetpack Compose · XML
 
 - **Architecture & Patterns:**  
 MVVM · Repository Pattern · Clean Architecture · SOLID
 
 
  - **Tools & Libraries:**  
-Android Studio · Git · Gradle · Room Database · SQLite · Firebase · Coroutines · Flow & LiveData · Navigation Component · View Binding · Data Binding
+Android Studio · Git · Gradle · Room Database · SQLite · Firebase · Coroutines · Flow & LiveData · Navigation Component · Retrofit · Dependency Injection ( Dagger Hilt ) · View Binding · Data Binding
 
 ## 👩🏻‍💻 About Me
 
